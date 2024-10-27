@@ -1,0 +1,9 @@
+@media screen and (max-width: 800px) {
+    .nav { display: none; }
+    .search_place { display: none; }
+    .header_block2 .mobile { display: block; }
+    .second_content_pics{flex-direction: column; align-items: center;}
+    .second_content_pics .second_pic{width: 100%; max-width: 650px;}
+    .third_content_pics{flex-direction: column; align-items: center;}
+    .third_content_pics .third_pic{width: 100%; max-width: 650px; margin-top: 50px;} 
+}

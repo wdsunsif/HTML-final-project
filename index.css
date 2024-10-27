@@ -1,0 +1,8 @@
+/*All css styles*/
+@import url(./css/global.css);
+@import url(./css/reset.css);
+@import url(./css/header.css);
+@import url(./css/grid.css);
+@import url(./css/footer.css);
+@import url(./css/media.css);
+@import url(./css/main.css);
